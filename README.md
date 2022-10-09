@@ -1,8 +1,7 @@
 # Add any DSA important Programs in C, C++ and Java
+<h2>general info</h2>
 
-##general info
-
-###Steps to contrbute
+<h3>Steps to contrbute</h3>
 *Fork this repository
 *Add your contribution files.
 *Now, go to pull request section and create a pull request.
