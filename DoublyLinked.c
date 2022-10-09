@@ -57,6 +57,7 @@ int choice =0;
             break;
             default:
             printf("Please enter valid choice..");
+             break;
         }
     }
 }
