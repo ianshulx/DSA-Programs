@@ -2,7 +2,7 @@
 
 Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR). GitHub hosts many open source repositories that contribute to learning content. Some of the repositories actively participate in the Hacktoberfest event. In this article, you’ll learn how to discover which repos are accepting PRs, and what you can expect as a contributor.
 
-#Contribution Rules📚:
+# Contribution Rules📚:
 
 - You are allowed to make pull requests that break the rules. We just merge it ;)
 - Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
@@ -13,7 +13,7 @@ Hacktoberfest is an annual worldwide event held during the month of October. The
 
 
 
-#Steps to Contribute in repository :
+# Steps to Contribute in repository :
 
 ###1. Fork this repo (button on top)
 ###2. Clone on your local machine<br>
