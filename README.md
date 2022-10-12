@@ -35,5 +35,9 @@ Hacktoberfest is an annual worldwide event held during the month of October. The
 
 
 
+# STAR ⭐ THIS REPO FOR QUICK MERGE YOUR PULL REQUEST 😁.
+
+
+
 <img src="https://miro.medium.com/max/1400/1*-EFdnPuVrwUOmYte11v0OA.png" alt="" class="href">
 
