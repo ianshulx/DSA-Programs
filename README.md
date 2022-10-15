@@ -37,6 +37,12 @@ Hacktoberfest is an annual worldwide event held during the month of October. The
 
 # STAR ⭐ THIS REPO FOR QUICK MERGE YOUR PULL REQUEST 😁.
 
+<h1 align="center">Our Contributors </h1>
+
+<a href="https://github.com/ianshulx/DSA-Hacktoberfest2022/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=ianshulx/DSA-Hacktoberfest2022"/>
+</a>
+
 
 
 <img src="https://miro.medium.com/max/1400/1*-EFdnPuVrwUOmYte11v0OA.png" alt="" class="href">
