@@ -2,45 +2,29 @@
 
 using namespace std;
 
-void bubbleSort(vector<int> v)
+void bubbleSort(int a[],int size)
 {
-    int i = 0, t = 0;
-
-    for (int i = 0; i < v.size() - 1; i++)
+    for(int i=0;i< size-1;i++)
     {
-        for (int j = 0; j < v.size() - i - 1; j++)
-        {
-            if (v[j] > v[j + 1])
-            {
-                swap(v[j], v[j + 1]);
-                t++;
-            }
-        }
-        if (t == 0)
-        {
-            cout << "Already sorted" << endl;
-        }
+      for(int j= 0; j < size-i-1 ;j++)
+      {
+          if(a[j] > a[j+1])
+          {
+              int temp = a[j];
+              a[j] = a[j+1];
+              a[j+1] = temp;
+          }
+      }
     }
-
-    for (int i = 0; i < v.size(); i++)
-    {
-        cout << v[i] << " ";
-    }
-}
+ }     
+   
 
 int main()
 {
-    int size;
+    int size,a[100];
     cin >> size;
-
-    vector<int> v1(size);
-
-    for (auto &i : v1)
-    {
-        cin >> i;
-    }
-
-    bubbleSort(v1);
-
+    for(int i=0;i<size;i++) cin>> a[i];
+    bubbleSort(a,size);
+    for(int i=0;i<size;i++) cout<< a[i]<< " ";
     return 0;
 }
