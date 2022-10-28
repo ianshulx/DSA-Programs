@@ -21,8 +21,10 @@ int BestApproach(int n){
 }
 
 int main(){
-    int r;
-    r=BestApproach(5);
+    int r,num;
+    cout<<"Enter Number";
+    cin>>num;
+    r=BestApproach(num);
 
     cout<<r<<" ";
     return 0;
